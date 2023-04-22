@@ -14,4 +14,4 @@ This project is still a work in progress. Consequently, it is advised not to mes
 
 ### Notes
 
-As the rooms walls are made using static meshes and that collisions are enabled, moving in the level by controlling the original *ABaseSpectator* pawn can prove not to be the most efficient way. It is therefore advised to detach yourself from the player controller, which can be done by pressing F8 while in the game when played in the editor. 
+As the rooms walls are made using static meshes and that collisions are enabled, moving in the level by controlling the original *ABaseSpectator* pawn can prove not to be the most efficient way. It is therefore advised to detach yourself from the player controller, which can be done by pressing F8 while in the game when playing in the editor. 
